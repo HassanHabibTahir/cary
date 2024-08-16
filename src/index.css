@@ -1,0 +1,27 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+:root {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+} */
+body {
+  margin: 0;
+}
+.NavLinkActive {
+  border-radius: 0.625rem;
+  background: #0054DA;
+  margin-right: 1rem;
+  color: white;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  stroke: white;
+}
+.NavLinkSvg {
+  stroke: #90a3bf;
+  color: #90a3bf;
+}
